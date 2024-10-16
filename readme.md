@@ -1,6 +1,6 @@
 ## NEWS APP - Kotlin Coroutines | MVVM | Navigation | Retrofit | Room |
 
-### YouTube Tutorial : https://www.youtube.com/watch?v=VgiMOHZNGjM&list=PLKETiCsEsH0rGpSDazN5Zv053FShtmb1K
+
 
 
 1. Navigation Component
@@ -29,5 +29,3 @@
 ![](images/searchview.png)
 
 
-### Dialog to Delete
-![](images/dialogtodelete.png)
